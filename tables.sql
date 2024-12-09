@@ -65,15 +65,6 @@ CREATE TABLE CoachActivities (
     FOREIGN KEY (ScheduleID) REFERENCES ActivitySchedules(ScheduleID)
 );
 
-COPY CoachActivities (CoachActivityID, CoachID,ScheduleID, CoachType)
-FROM 'C:\Users\Public\Documents\Seed\CoachActivities.csv' DELIMITER ',' CSV HEADER;
-
-DELETE FROM CoachActivities;
-
-SELECT * FROM CoachActivities;
-
-DROP TABLE CoachActivities
-
 CREATE TABLE Members (
     MemberID INT PRIMARY KEY,
     Name VARCHAR(255),

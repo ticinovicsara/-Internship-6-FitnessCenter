@@ -1,196 +1,195 @@
-id,Name,Population
-1,Philippines,91868
-2,Russia,39535
-3,China,47805
-4,Portugal,48516
-5,China,30373
-6,Indonesia,93391
-7,Philippines,55607
-8,Sweden,98045
-9,Poland,17747
-10,Philippines,43351
-11,Pakistan,50361
-12,Macedonia,14061
-13,Benin,34306
-14,Indonesia,29580
-15,Monaco,9188
-16,South Africa,58177
-17,China,30267
-18,Poland,86512
-19,Sweden,90477
-20,China,63024
-21,Luxembourg,30725
-22,Brazil,32799
-23,Philippines,24062
-24,Russia,80484
-25,Greece,42511
-26,China,10192
-27,Pakistan,17773
-28,Sweden,9968
-29,Brazil,39958
-30,Norway,52691
-31,Poland,24792
-32,China,75021
-33,Philippines,42593
-34,Vietnam,51194
-35,Peru,68745
-36,China,40311
-37,China,88800
-38,Mali,80274
-39,Indonesia,50802
-40,France,97962
-41,Israel,31784
-42,France,83036
-43,United States,72422
-44,China,19442
-45,Portugal,55993
-46,Russia,41370
-47,Vietnam,97418
-48,China,10294
-49,France,35788
-50,Indonesia,75419
-51,Russia,85546
-52,China,80693
-53,China,18880
-54,Macedonia,99227
-55,Cameroon,56137
-56,Greece,26768
-57,South Africa,52062
-58,Philippines,31193
-59,China,80247
-60,Tanzania,85326
-61,Indonesia,70977
-62,Argentina,91566
-63,Czech Republic,50481
-64,Indonesia,85327
-65,Indonesia,39006
-66,Japan,17816
-67,Indonesia,91794
-68,Russia,35670
-69,China,35768
-70,Finland,77724
-71,Indonesia,31668
-72,Bosnia and Herzegovina,23333
-73,Brazil,33280
-74,Nicaragua,52396
-75,Indonesia,57453
-76,Papua New Guinea,89189
-77,Portugal,10814
-78,Malaysia,77885
-79,Tunisia,7585
-80,France,66865
-81,Indonesia,83238
-82,Mayotte,67694
-83,Brazil,8476
-84,Russia,42753
-85,Uruguay,70875
-86,Colombia,98710
-87,South Korea,43907
-88,Indonesia,71220
-89,Indonesia,23835
-90,Armenia,19017
-91,Philippines,23098
-92,China,21952
-93,Indonesia,18103
-94,Germany,63075
-95,Malaysia,57445
-96,Russia,73616
-97,Iraq,91732
-98,France,70129
-99,Zimbabwe,18309
-100,Russia,33587
-101,Honduras,37630
-102,Sweden,47571
-103,France,16519
-104,Portugal,96467
-105,Brazil,73995
-106,China,26370
-107,China,87475
-108,Pakistan,64951
-109,United States,12931
-110,Indonesia,96014
-111,Philippines,80660
-112,Argentina,86865
-113,Iraq,74413
-114,Indonesia,54125
-115,China,83649
-116,Sweden,66794
-117,Sweden,69154
-118,United States,95378
-119,China,94934
-120,China,93467
-121,Czech Republic,42907
-122,Indonesia,61987
-123,Japan,5105
-124,China,99440
-125,Indonesia,57992
-126,Ivory Coast,86068
-127,Indonesia,40577
-128,Canada,50196
-129,Dominican Republic,58150
-130,Japan,26315
-131,Colombia,22097
-132,Slovenia,30376
-133,China,96207
-134,Poland,28362
-135,Philippines,7589
-136,Indonesia,9716
-137,Poland,33359
-138,Peru,52226
-139,Nigeria,60975
-140,Belarus,20432
-141,Indonesia,39565
-142,Colombia,15902
-143,Mexico,76312
-144,Poland,94482
-145,Indonesia,64870
-146,Sweden,13794
-147,Czech Republic,93215
-148,Russia,84633
-149,Brazil,5519
-150,Mexico,90439
-151,Brazil,41054
-152,Chile,30653
-153,China,6892
-154,China,72599
-155,Indonesia,67804
-156,Sweden,76691
-157,Sweden,46126
-158,China,34939
-159,Philippines,35304
-160,Palestinian Territory,62092
-161,Albania,26260
-162,Poland,77455
-163,United States,79827
-164,Brazil,78644
-165,Sweden,35153
-166,Indonesia,86356
-167,Dominican Republic,54019
-168,Malawi,35476
-169,Paraguay,14382
-170,China,5625
-171,Argentina,34731
-172,Honduras,74938
-173,France,11789
-174,Costa Rica,12124
-175,Panama,22340
-176,Portugal,93581
-177,Indonesia,39133
-178,Guinea,71005
-179,Indonesia,26759
-180,Czech Republic,70002
-181,Tanzania,84400
-182,Egypt,31145
-183,Chad,57783
-184,Indonesia,42939
-185,Russia,43719
-186,Poland,11772
-187,China,87870
-188,China,88806
-189,Saint Lucia,56857
-190,Greece,80961
-191,Brazil,21843
-192,Czech Republic,79302
-193,Russia,55004
-194,Sweden,19149
-195,Nigeria,60276
+1,Philippines,91868,104.26
+2,Russia,39535,549.84
+3,China,47805,65.33
+4,Portugal,48516,523.70
+5,China,30373,401.49
+6,Indonesia,93391,228.01
+7,Philippines,55607,161.07
+8,Sweden,98045,137.06
+9,Poland,17747,315.09
+10,Philippines,43351,53.30
+11,Pakistan,50361,20.14
+12,Macedonia,14061,234.95
+13,Benin,34306,412.68
+14,Indonesia,29580,270.50
+15,Monaco,9188,723.39
+16,South Africa,58177,54.11
+17,China,30267,406.17
+18,Poland,86512,0.00
+19,Sweden,90477,642.27
+20,China,63024,283.01
+21,Luxembourg,30725,53.33
+22,Brazil,32799,21.72
+23,Philippines,24062,422.83
+24,Russia,80484,54.11
+25,Greece,42511,44.66
+26,China,10192,425.67
+27,Pakistan,17773,0.00
+28,Sweden,9968,400.11
+29,Brazil,39958,252.52
+30,Norway,52691,248.20
+31,Poland,24792,438.50
+32,China,75021,356.50
+33,Philippines,42593,32.37
+34,Vietnam,51194,21.72
+35,Peru,68745,297.01
+36,China,40311,55.45
+37,China,88800,21.49
+38,Mali,80274,96.46
+39,Indonesia,50802,217.26
+40,France,97962,34.22
+41,Israel,31784,66.74
+42,France,83036,144.01
+43,United States,72422,704.98
+44,China,19442,240.25
+45,Portugal,55993,52.98
+46,Russia,41370,196.32
+47,Vietnam,97418,54.15
+48,China,10294,53.79
+49,France,35788,168.53
+50,Indonesia,75419,305.24
+51,Russia,85546,0.00
+52,China,80693,118.41
+53,China,18880,0.00
+54,Macedonia,99227,380.93
+55,Cameroon,56137,108.40
+56,Greece,26768,43.78
+57,South Africa,52062,158.39
+58,Philippines,31193,344.32
+59,China,80247,639.70
+60,Tanzania,85326,105.86
+61,Indonesia,70977,260.62
+62,Argentina,91566,233.90
+63,Czech Republic,50481,336.66
+64,Indonesia,85327,87.07
+65,Indonesia,39006,200.09
+66,Japan,17816,349.73
+67,Indonesia,91794,406.11
+68,Russia,35670,65.84
+69,China,35768,178.18
+70,Finland,77724,475.35
+71,Indonesia,31668,0.00
+72,Bosnia and Herzegovina,23333,0.00
+73,Brazil,33280,192.48
+74,Nicaragua,52396,373.76
+75,Indonesia,57453,129.45
+76,Papua New Guinea,89189,345.13
+77,Portugal,10814,149.87
+78,Malaysia,77885,0.00
+79,Tunisia,7585,365.08
+80,France,66865,261.04
+81,Indonesia,83238,376.19
+82,Mayotte,67694,309.92
+83,Brazil,8476,309.01
+84,Russia,42753,162.66
+85,Uruguay,70875,607.46
+86,Colombia,98710,191.03
+87,South Korea,43907,502.25
+88,Indonesia,71220,162.23
+89,Indonesia,23835,165.18
+90,Armenia,19017,0.00
+91,Philippines,23098,258.34
+92,China,21952,211.37
+93,Indonesia,18103,277.46
+94,Germany,63075,30.47
+95,Malaysia,57445,357.20
+96,Russia,73616,674.48
+97,Iraq,91732,163.78
+98,France,70129,54.11
+99,Zimbabwe,18309,212.34
+100,Russia,33587,66.47
+101,Honduras,37630,205.42
+102,Sweden,47571,234.45
+103,France,16519,236.87
+104,Portugal,96467,215.88
+105,Brazil,73995,401.81
+106,China,26370,227.82
+107,China,87475,312.42
+108,Pakistan,64951,254.31
+109,United States,12931,0.00
+110,Indonesia,96014,0.00
+111,Philippines,80660,331.78
+112,Argentina,86865,80.87
+113,Iraq,74413,71.46
+114,Indonesia,54125,178.29
+115,China,83649,402.01
+116,Sweden,66794,249.01
+117,Sweden,69154,406.33
+118,United States,95378,89.43
+119,China,94934,868.24
+120,China,93467,93.56
+121,Czech Republic,42907,458.93
+122,Indonesia,61987,49.92
+123,Japan,5105,272.54
+124,China,99440,49.92
+125,Indonesia,57992,259.28
+126,Ivory Coast,86068,295.52
+127,Indonesia,40577,280.27
+128,Canada,50196,244.66
+129,Dominican Republic,58150,123.33
+130,Japan,26315,216.36
+131,Colombia,22097,404.53
+132,Slovenia,30376,420.15
+133,China,96207,341.66
+134,Poland,28362,246.52
+135,Philippines,7589,148.72
+136,Indonesia,9716,205.45
+137,Poland,33359,273.30
+138,Peru,52226,283.48
+139,Nigeria,60975,0.00
+140,Belarus,20432,515.18
+141,Indonesia,39565,298.05
+142,Colombia,15902,311.58
+143,Mexico,76312,404.36
+144,Poland,94482,250.87
+145,Indonesia,64870,28.56
+146,Sweden,13794,513.74
+147,Czech Republic,93215,87.70
+148,Russia,84633,465.24
+149,Brazil,5519,241.14
+150,Mexico,90439,282.10
+151,Brazil,41054,440.31
+152,Chile,30653,0.00
+153,China,6892,49.31
+154,China,72599,219.17
+155,Indonesia,67804,376.26
+156,Sweden,76691,222.28
+157,Sweden,46126,354.21
+158,China,34939,215.69
+159,Philippines,35304,177.12
+160,Palestinian Territory,62092,113.30
+161,Albania,26260,182.51
+162,Poland,77455,242.37
+163,United States,79827,248.59
+164,Brazil,78644,126.34
+165,Sweden,35153,316.95
+166,Indonesia,86356,235.12
+167,Dominican Republic,54019,0.00
+168,Malawi,35476,0.00
+169,Paraguay,14382,51.44
+170,China,5625,114.82
+171,Argentina,34731,622.74
+172,Honduras,74938,151.85
+173,France,11789,526.62
+174,Costa Rica,12124,67.18
+175,Panama,22340,185.53
+176,Portugal,93581,150.73
+177,Indonesia,39133,146.03
+178,Guinea,71005,300.20
+179,Indonesia,26759,0.00
+180,Czech Republic,70002,136.52
+181,Tanzania,84400,295.58
+182,Egypt,31145,82.37
+183,Chad,57783,209.90
+184,Indonesia,42939,90.81
+185,Russia,43719,214.69
+186,Poland,11772,65.63
+187,China,87870,23.82
+188,China,88806,224.12
+189,Saint Lucia,56857,111.43
+190,Greece,80961,125.60
+191,Brazil,21843,47.14
+192,Czech Republic,79302,384.11
+193,Russia,55004,88.60
+194,Sweden,19149,209.93
+195,Nigeria,60276,180.13
