@@ -48,7 +48,7 @@ SELECT
         ELSE 'FULLY BOOKED'
     END AS Status
 FROM Coaches c
-LEFT JOIN CoachActivities ca ON c.coachid = ca.coachid
+JOIN CoachActivities ca ON c.coachid = ca.coachid
 GROUP BY c.coachid, c.name, c.surname;
 
 
@@ -80,7 +80,7 @@ JOIN Coaches c ON co.countryid = c.countryid
 JOIN CoachActivities ca ON c.coachid = ca.coachid
 JOIN Activityschedules s ON ca.scheduleid = s.scheduleid
 JOIN Activities a ON s.activityid = a.activityid
-LEFT JOIN (
+JOIN (
     SELECT 
         scheduleid, 
         COUNT(memberid) AS MemberCount
@@ -119,7 +119,7 @@ JOIN Activities a ON s.activityid = a.activityid;
 
 
 
--10.
+--10.
 SELECT 
     c.Name, 
     c.Surname, 
